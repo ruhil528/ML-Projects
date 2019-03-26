@@ -1,2 +1,3 @@
-# ML_projects
-The project includes problems solved using ML techniques.
+# Machine Learning Projects
+
+The repo includes data science and machine learning projects. 
